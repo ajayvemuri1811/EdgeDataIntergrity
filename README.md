@@ -21,7 +21,7 @@ ICL-EDI provides a novel approach to ensure data integrity in edge computing, al
 
 ### 1. Clone/Download the Repository
 
-### 2. Modify the server list in the servoce_vendor folder
+### 2. Modify the server list in the service_vendor folder
 
 It is written in the format edgeserver_name/edgeserver_ip/port. For example::(edge_server1/127.0.0.1/6001)
 
